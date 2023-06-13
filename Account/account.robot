@@ -49,8 +49,8 @@ login
     Wait Until Page Contains Element    dt_login_button    10
     Click Element    dt_login_button
     Wait Until Page Contains Element    txtEmail    10
-    Input Text    txtEmail    pavithra@besquare.com.my
-    Input Password    txtPass  291299Pavi
+    Input Text    txtEmail    ******
+    Input Password    txtPass  ******
     Click Element    //button[@name="login"]
    
 
